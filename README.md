@@ -117,12 +117,12 @@ This dataset is now suitable for visual or statistical analysis, such as identif
 * Which airlines or airports experience the highest delay rates.
 * The relative impact of weather, carrier, and air traffic delays.
 ---
-##Getting Started
-###Installation
+## Getting Started
+### Installation
 ```bash
 pip install pandas numpy matplotlib
 ```
-###Usage
+### Usage
 Open the `Airline_Delay_Data_Cleaner.ipynb` notebook.
 Run all cells to profile, clean, and validate the dataset.
 The cleaned dataset will be exported as `Airline_Delay_Cause_Cleaned.csv`.
